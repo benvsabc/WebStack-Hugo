@@ -1,4 +1,4 @@
-baseURL               = "https://taotaofood.com/"
+baseURL               = "https://webstack-hugo-4h2.pages.dev/"
 languageCode          = "zh-CN"
 title                 = "WebStack-Hugo 网址导航"
 theme                 = "WebStack-Hugo"
